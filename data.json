@@ -2,31 +2,31 @@
   {
     "id": "1",
     "titulo": "Lembretes",
-    "texto": "Comprar leite e pão",
+    "texto": "Comprar açucar e pão",
     "criadoEm": "2025-04-29T10:00:00Z"
   },
   {
     "id": "2",
-    "titulo": "Tarefas do trabalho",
-    "texto": "Enviar relatório até sexta-feira",
+    "titulo": "Tarefas",
+    "texto": "fazer lição de casa",
     "criadoEm": "2025-04-29T10:00:00Z"
   },
   {
     "id": "3",
     "titulo": "Estudos",
-    "texto": "Revisar módulo de Node.js",
+    "texto": "estudar ingles",
     "criadoEm": "2025-04-29T10:00:00Z"
-  },
+  },*
   {
     "id": "4",
     "titulo": "Pessoal",
-    "texto": "Ligar para mãe no final de semana",
+    "texto": "caminhar aos *domingos",
     "criadoEm": "2025-04-29T10:00:00Z"
   },
   {
     "id": "5",
     "titulo": "Lazer",
-    "texto": "Assistir o novo episódio da série",
+    "texto": "Assistir o novo episódio de anime",
     "criadoEm": "2025-04-29T10:00:00Z"
   }
 ]
